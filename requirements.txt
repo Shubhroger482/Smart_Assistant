@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+PyMuPDF
+transformers
+sentence-transformers
+scikit-learn
+langchain
